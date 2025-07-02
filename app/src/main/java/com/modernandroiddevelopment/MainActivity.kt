@@ -27,7 +27,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.modernandroiddevelopment.ui.theme.ModernAndroidDevelopmentTheme
 
 
 class MainActivity : ComponentActivity() {
@@ -52,7 +51,6 @@ class MainActivity : ComponentActivity() {
         val context = LocalContext.current
         var textUser by remember { mutableStateOf("") }
 
-        ModernAndroidDevelopmentTheme {
             Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                 Column( modifier = Modifier.padding(innerPadding)) {
 
@@ -80,7 +78,6 @@ class MainActivity : ComponentActivity() {
                     }
                     ListAnswer(listWriteCorrect)
                 }
-            }
         }
 
     }
