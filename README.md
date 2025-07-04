@@ -1,4 +1,4 @@
-# Modern-Android-Development-MAD-
+# Modern-Android-Development-MAD
 is a set tools, libraries, languages, and best pratices by Google to make easier to develop Android
 
 ### Main componets
@@ -15,7 +15,7 @@ is a set tools, libraries, languages, and best pratices by Google to make easier
     + add corotines 
     + display laboratory corotines show buttons logs description
     + technologies: corotines
-    + [prototype 1.0.0](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#R%3Cmxfile%3E%3Cdiagram%20name%3D%22P%C3%A1gina-1%22%20id%3D%22Cj4zFPiSkKibEpfqXRir%22%3E1ZZRb5swEMc%2FDY%2BRAg4keWyzdpXWapUibc8OOGDJ5pg5SpJPvwMMgULXTWqi7iGJ%2Bfts49%2F%2Fzo7DNvrw1fAseYJIKMebRweHfXE8b7X06LsSjo2wYOtGiI2MGsk9C1t5ElacW7WQkcgHgQigUGZDMYQ0FSEONG4MlMOwPajhqhmPxUjYhlyN1Z8ywsRuy1ue9Qch46Rd2Q3s%2FjRvg%2B1O8oRHUPYkduewjQHApqUPG6Eqdi2XZtz9G73dixmR4t8MWEerXX7%2FsH%2Fy8aR18P1bevoxs7O8cFXYDduXxWNLwECRRqKaZO6w2zKRKLYZD6vekiwnLUGt6Mmlpp1OGBSHN9%2FT7XZPWSNACzRHCrED2MICsxkT2MfyjN9lVkt66L25Fbm1PO6mPlOhhgXzD5C8CUiBomVv90B76tMKfhXQdszyOptvKMCdZ4eaTttPrbj6fVb8GNeEKWoDBlCmlO52enrbZoUmeGQNQcYhf65knFI7JNjCkFBZISmdb2yHllFUDZ80cmj1R3gZsHe9nPtjL9mlrFy8n%2B9Up1nVLLS6CRH6EB%2F5TqhnyCVKqGDuABH0BGWEV3UBBSpydtOdUh8FeLEaAvbHgCf4epfi64%2F4PkKc10XQpPTOtNkcceTUkYDhNGJGHyPyQiGdkhTCdUUw3eVZUy314Ei%2BdKNFHhpCDtXdwusLoC4e3qudXvj%2FVzpdDVhnO8961jJ%2F4hy8WO0EI28VL9Iw%2BcON4V7pxvAHqNYTp8xVq2A5IlVKTFBqQefAp8PlTmTWdXmtRrxMN%2B%2BnIuVfjhQ9nv8L1n29P9Ts7jc%3D%3C%2Fdiagram%3E%3C%2Fmxfile%3E#%7B%22pageId%22%3A%22Cj4zFPiSkKibEpfqXRir%22%7D)
+    + [prototype 1.2.0](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#R%3Cmxfile%3E%3Cdiagram%20name%3D%22P%C3%A1gina-1%22%20id%3D%22Cj4zFPiSkKibEpfqXRir%22%3E1ZZRb5swEMc%2FDY%2BRAg4keWyzdpXWapUibc8OOGDJ5pg5SpJPvwMMgULXTWqi7iGJ%2Bfts49%2F%2Fzo7DNvrw1fAseYJIKMebRweHfXE8b7X06LsSjo2wYOtGiI2MGsk9C1t5ElacW7WQkcgHgQigUGZDMYQ0FSEONG4MlMOwPajhqhmPxUjYhlyN1Z8ywsRuy1ue9Qch46Rd2Q3s%2FjRvg%2B1O8oRHUPYkduewjQHApqUPG6Eqdi2XZtz9G73dixmR4t8MWEerXX7%2FsH%2Fy8aR18P1bevoxs7O8cFXYDduXxWNLwECRRqKaZO6w2zKRKLYZD6vekiwnLUGt6Mmlpp1OGBSHN9%2FT7XZPWSNACzRHCrED2MICsxkT2MfyjN9lVkt66L25Fbm1PO6mPlOhhgXzD5C8CUiBomVv90B76tMKfhXQdszyOptvKMCdZ4eaTttPrbj6fVb8GNeEKWoDBlCmlO52enrbZoUmeGQNQcYhf65knFI7JNjCkFBZISmdb2yHllFUDZ80cmj1R3gZsHe9nPtjL9mlrFy8n%2B9Up1nVLLS6CRH6EB%2F5TqhnyCVKqGDuABH0BGWEV3UBBSpydtOdUh8FeLEaAvbHgCf4epfi64%2F4PkKc10XQpPTOtNkcceTUkYDhNGJGHyPyQiGdkhTCdUUw3eVZUy314Ei%2BdKNFHhpCDtXdwusLoC4e3qudXvj%2FVzpdDVhnO8961jJ%2F4hy8WO0EI28VL9Iw%2BcON4V7pxvAHqNYTp8xVq2A5IlVKTFBqQefAp8PlTmTWdXmtRrxMN%2B%2BnIuVfjhQ9nv8L1n29P9Ts7jc%3D%3C%2Fdiagram%3E%3C%2Fmxfile%3E#%7B%22pageId%22%3A%22Cj4zFPiSkKibEpfqXRir%22%7D)
 
 + Release 1.1.0
     + adjustment in archtecture and add MVVM 
